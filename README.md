@@ -25,7 +25,7 @@ The list of commands and their usage is given below:
 `python .\task-cli.py task-cli list in-progress`
 
 
-#Task Properties
+# Task Properties
 Each task should have the following properties:
 
 id: A unique identifier for the task  
